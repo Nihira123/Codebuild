@@ -1,0 +1,8 @@
+<project>
+  <artifactId>my-parent</artifactId>
+  <packaging>pom</packaging>
+  ...
+  <modules>
+    <module>helloworld</module>
+  </modules>
+</project>
